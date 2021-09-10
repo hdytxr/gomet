@@ -1,5 +1,5 @@
 package gomet
 
-func SayHello() string {
-	return "Hello Mets"
+func SayHello(name string) string {
+	return "Hello " + name
 }

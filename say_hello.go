@@ -1,5 +1,5 @@
 package gomet
 
 func SayHello() string {
-	return "Hello"
+	return "Hello Mets"
 }
